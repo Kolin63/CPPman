@@ -15,5 +15,9 @@ int main()
             break;
         s.getLetter();
     }
+
+    char c;
+    std::cin >> c;
+
     return 0;
 }
