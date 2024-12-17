@@ -9,7 +9,7 @@
 namespace WordList
 {
    inline static std::vector<std::string_view> words{ "mystery", "broccoli" , "account", "almost", "spaghetti", 
-       "opinion", "beautiful", "distance", "luggage" };
+       "opinion", "beautiful", "distance", "luggage", "highseas", "hackclub", "github", "higgledypiggledy" };
 
    inline static std::string_view getRandomWord() 
    {
