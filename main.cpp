@@ -9,9 +9,6 @@ int main()
 
     Session s{ 6 };
 
-    // DEBUG DEBUG DEBUG DEBUG DEBUG  (its used for debugging) 
-    std::cout << "\n\n" << s.getWord() << "\n\n";
-    
     while (true)
     {
         if (s.display() != 'n')
